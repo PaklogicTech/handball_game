@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -4.004
+TNS   : -63.787
+
+Type  : Slow 1200mV 85C Model Setup 'adjust_freq:i_adjust_freq|temp'
+Slack : -2.526
+TNS   : -32.293
+
+Type  : Slow 1200mV 85C Model Hold 'adjust_freq:i_adjust_freq|temp'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : 0.726
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'adjust_freq:i_adjust_freq|temp'
+Slack : -0.980
+TNS   : -12.110
+
+Type  : Slow 1200mV 85C Model Removal 'adjust_freq:i_adjust_freq|temp'
+Slack : 1.185
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -52.071
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'adjust_freq:i_adjust_freq|temp'
+Slack : -1.487
+TNS   : -31.227
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -3.788
+TNS   : -54.766
+
+Type  : Slow 1200mV 0C Model Setup 'adjust_freq:i_adjust_freq|temp'
+Slack : -2.361
+TNS   : -29.726
+
+Type  : Slow 1200mV 0C Model Hold 'adjust_freq:i_adjust_freq|temp'
+Slack : 0.322
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : 0.686
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'adjust_freq:i_adjust_freq|temp'
+Slack : -0.871
+TNS   : -10.215
+
+Type  : Slow 1200mV 0C Model Removal 'adjust_freq:i_adjust_freq|temp'
+Slack : 1.063
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -52.071
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'adjust_freq:i_adjust_freq|temp'
+Slack : -1.487
+TNS   : -31.227
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -0.978
+TNS   : -5.158
+
+Type  : Fast 1200mV 0C Model Setup 'adjust_freq:i_adjust_freq|temp'
+Slack : -0.335
+TNS   : -3.180
+
+Type  : Fast 1200mV 0C Model Hold 'adjust_freq:i_adjust_freq|temp'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : 0.250
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'adjust_freq:i_adjust_freq|temp'
+Slack : 0.132
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'adjust_freq:i_adjust_freq|temp'
+Slack : 0.483
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -37.087
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'adjust_freq:i_adjust_freq|temp'
+Slack : -1.000
+TNS   : -21.000
+
+------------------------------------------------------------
